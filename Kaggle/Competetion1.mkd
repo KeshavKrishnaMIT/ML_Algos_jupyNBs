@@ -1,0 +1,11 @@
+### Overview
+You’re given logs of user activity: watch times, categories, devices, timestamps, and recommendation details. Some users clicked, some scrolled past, and a rare few interacted in unexpected ways.
+
+Your task is to train a model that predicts whether a user clicks on a video or not, in other words, who will engage next.
+
+The leaderboard will rank submissions based on Accuracy and how well your model separates interest from indifference.
+
+Rows: 1,000,000 user–video interactions Task: Classification
+
+### Evaluation
+Submissions will be scored using ACCURACYand F1-Score, focusing on how well your model distinguishes between clicked and non-clicked recommendations.
