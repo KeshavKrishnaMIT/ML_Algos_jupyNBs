@@ -21,3 +21,5 @@ Rows: 1,000,000 user–video interactions Task: Classification
 Submissions will be scored using ACCURACY and F-1 Score, focusing on how well your model distinguishes between clicked and non-clicked recommendations.
 
 [One Million Clicks Later - Kaggle Competition](https://www.kaggle.com/competitions/one-million-clicks-later)
+
+## The model which got me second position on the leaderboard was RF-4, my overall fourth and tird attempt at Random Forests
