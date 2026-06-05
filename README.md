@@ -1,18 +1,25 @@
-### Machine Learning Algorithms – Kaggle Comp
 
-This repository contains my Machine Learning (ML) practice notebooks, covering various algorithms, implementations, and experiments. Each notebook focuses on a specific ML concept, implemented from scratch or using popular libraries such as NumPy, Pandas, Matplotlib, and scikit-learn.
+### Overview
+## In an endless scroll of videos, what makes a viewer pause? One million moments and one million chances to decide!
 
+This dataset captures user–video interactions from a YouTube-like recommendation system. Every record is a snapshot of curiosity — a recommendation shown, an action taken (or ignored), and the subtle behavioural signals in between.
 
-Python 3.x
+Your challenge: Predict whether a user will click on a video.
 
-Jupyter Notebook
+It’s not just about algorithms. It’s about understanding what drives attention — the invisible rhythm behind engagement.
 
-NumPy
+### Description
+You’re given logs of user activity: watch times, categories, devices, timestamps, and recommendation details. Some users clicked, some scrolled past, and a rare few interacted in unexpected ways.
 
-Pandas
+Your task is to train a model that predicts whether a user clicks on a video or not, in other words, who will engage next.
 
-Matplotlib / Seaborn
+The leaderboard will rank submissions based on Accuracy and how well your model separates interest from indifference.
 
-Scikit-learn
+Rows: 1,000,000 user–video interactions Task: Classification
 
-TensorFlow / Keras (for some notebooks)
+### Evaluation
+Submissions will be scored using ACCURACY and F-1 Score, focusing on how well your model distinguishes between clicked and non-clicked recommendations.
+
+[One Million Clicks Later - Kaggle Competition](https://www.kaggle.com/competitions/one-million-clicks-later)
+
+## The model which got me second position on the leaderboard was RF-4, my overall fourth and tird attempt at Random Forests
